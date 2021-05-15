@@ -55,6 +55,24 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>CFBundleDisplayName</key>
+	<string></string>
+	<key>CFBundleGetInfoString</key>
+	<string></string>
+	<key>NSHumanReadableCopyright</key>
+	<string></string>
+	<key>CFBundleSignature</key>
+	<string></string>
+	<key>CFBundleIconFile</key>
+	<string></string>
+	<key>NSCameraUsageDescription</key>
+	<string>アプリ内で編集する写真を撮るためにカメラを起動します</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>編集した画像をフォトライブラリに保存します</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>アプリ内で編集する画像をフォトライブラリから呼び出します</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
